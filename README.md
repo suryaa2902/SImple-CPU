@@ -26,6 +26,7 @@ Control Logic:
 * Handles instruction processing and state transitions
 
 The output waveform:
+
 <img width="742" alt="image" src="https://github.com/user-attachments/assets/2c1fcd15-f9b1-47ba-ace5-685762768d75" />
 
 The waveform shows the CPU executing a simple program. The program counter increments, indicating that the CPU is fetching instructions from memory. The accumulator's values change, suggesting that arithmetic operations are being performed. The specific operations and the program's logic cannot be determined from this waveform alone.
